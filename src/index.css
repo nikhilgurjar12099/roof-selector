@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+}
+
+#canvas-container {
+  position: relative;
+  text-align: center;
+  margin: 0 auto;
+}
+
+button {
+  margin-top: 20px;
+}
